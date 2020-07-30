@@ -10,3 +10,7 @@ which is to pull this file and observe new changes
 
 now it is step 3
 I am gonna push and pull again
+
+step 4
+
+for test push without commit or add
